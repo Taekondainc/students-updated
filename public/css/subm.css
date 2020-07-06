@@ -1,0 +1,49 @@
+.contente{
+    height:auto;
+    width:80%;
+
+}
+.disp,.test,.assi{
+     color: black;
+     width:unset;
+}
+#ftestt{
+    margin-top: 20px;
+}
+#form{
+    background:#2e303b;
+    border:1px solid black;
+    display:inline-block;
+text-align: left;
+margin-top: 20px;
+}
+.cl{
+    border:1px solid black;
+
+    margin:0px;
+    vertical-align:top;
+
+    display:inline-block;
+    background:#2e303b;
+
+}#cl2{
+    width:70%;
+    display:inline-block;
+    border-radius:10px;
+}#form{
+    text-align:left;
+    font-family:'Oswald',
+    sans-serif;
+
+    padding:30px;
+}
+.testts{
+
+    background:#ffffff;
+
+
+
+
+    padding:10px;
+
+}
